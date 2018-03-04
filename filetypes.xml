@@ -5,6 +5,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="s" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
