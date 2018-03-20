@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>ItemsOra.getItems (com.project.betterzon.ora)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getItems").withParameters("java.lang.String").definedInClass("com.project.betterzon.ora.ItemsOra"))]]></place>
+    </injection>
+  </component>
+</application>
