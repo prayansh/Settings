@@ -1,0 +1,5 @@
+<application>
+  <component name="HaskellConfiguration">
+    <option name="stylishHaskellPath" value="$USER_HOME$/.local/bin/stylish-haskell" />
+  </component>
+</application>
