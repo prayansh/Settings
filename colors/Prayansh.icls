@@ -4,7 +4,7 @@
     <property name="created">2017-08-15T14:00:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-10-09T11:30:44</property>
+    <property name="modified">2018-10-13T15:20:18</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -156,9 +156,37 @@
         <option name="FOREGROUND" value="5aecc" />
       </value>
     </option>
+    <option name="HS_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="ce537a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HS_RESERVED_ID">
+      <value>
+        <option name="FOREGROUND" value="4f97d7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HS_RESERVED_OP">
+      <value>
+        <option name="FOREGROUND" value="2aa1ae" />
+      </value>
+    </option>
+    <option name="HS_SIGNATURE">
+      <value>
+        <option name="FOREGROUND" value="2aa1ae" />
+      </value>
+    </option>
+    <option name="HS_STRING">
+      <value>
+        <option name="FOREGROUND" value="2d9574" />
+      </value>
+    </option>
     <option name="HS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="3cdbb4" />
+        <option name="FOREGROUND" value="bf73ac" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
