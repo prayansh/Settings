@@ -4,6 +4,7 @@
       <mapping pattern="asdad" type="PLAIN_TEXT" />
       <mapping pattern="sl" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
