@@ -1,8 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="diff" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="asdad" type="PLAIN_TEXT" />
+      <mapping pattern="sl" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
